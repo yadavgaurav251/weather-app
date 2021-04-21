@@ -3,4 +3,10 @@
 
 ## Screenshots
 
+![](https://github.com/yadavgaurav251/weather-app/blob/main/screenshots/Screenshot_20210422-022353.jpg)
+![](https://github.com/yadavgaurav251/weather-app/blob/main/screenshots/Screenshot_20210422-022401.jpg)
+![](https://github.com/yadavgaurav251/weather-app/blob/main/screenshots/Screenshot_20210422-022410.jpg)
+![](https://github.com/yadavgaurav251/weather-app/blob/main/screenshots/Screenshot_20210422-022420.jpg)
+![](https://github.com/yadavgaurav251/weather-app/blob/main/screenshots/Screenshot_20210422-022437.jpg)
+
 
